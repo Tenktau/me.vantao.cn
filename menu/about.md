@@ -13,4 +13,4 @@ permalink: /about
 
 祝你生活愉快 : )
 
-<div class="footer-description">You may want to <a href="about-en">read this page in English</a>.</div>
+<div class="footer-description">You may want to <a href="about-en.html">read this page in English</a>.</div>

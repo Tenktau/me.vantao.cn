@@ -13,4 +13,4 @@ I'm Wantao Liu, Bachelor's degree in Electronic Information Engineering and curr
 
 Have a nice day : )
 
-<div class="footer-description">或许你想<a href="about">阅读此页面的中文版本</a>.</div>
+<div class="footer-description">或许你想<a href="about.html">阅读此页面的中文版本</a>.</div>

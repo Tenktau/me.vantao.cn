@@ -9,4 +9,4 @@ permalink: /contact
 - 开源软件本地化 (L10n) 相关话题 -> `vantao@aosc.io`
 - 其他话题 -> `hi@vantao.cn`
 
-<div class="footer-description">You may want to <a href="contact-en">read this page in English</a>.</div>
+<div class="footer-description">You may want to <a href="contact-en.html">read this page in English</a>.</div>
