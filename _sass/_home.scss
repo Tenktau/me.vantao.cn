@@ -54,3 +54,10 @@
 .pagination-active:hover {
   background-color: $pagination-button-color;
 }
+
+.topBannerTitleText {
+  background: linear-gradient(90deg, #06a106, #04e8e0 50%, #fcb045);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: #0000;
+}
