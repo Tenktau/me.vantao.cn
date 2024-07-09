@@ -3,16 +3,18 @@
 */
 
 body {
-  font-family: $serif-font-family;
-  font-size: 18px;
+  font-family: 'Noto Serif SC', serif;
+  font-size: 1rem;
   color: $body-color;
-  line-height: 1.75rem;
+  line-height: 1.4rem;
+  font-weight: 300;
 }
 
 @media (max-width: $elements-responsive-width) {
   body {
-    font-size: 14px;
+    font-size: 1rem;
     line-height: 1.5rem;
+    font-weight: bold;
   }
   body h1 {
     font-size: 1.5rem;
@@ -28,7 +30,8 @@ h1 a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $sans-serif-font-family;
+  font-family: 'Noto Serif SC', serif;
+  // font-weight: bolder;
   color: $dark-gray-color;
 }
 
