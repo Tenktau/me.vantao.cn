@@ -48,7 +48,11 @@
 }
 
 .header-subtitle {
-  color: $light-gray-color;
+  // color: $light-gray-color;
+  background: linear-gradient(120deg, #06a106, #04e8e0 50%, #fcb045);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: #0000;
 }
 
 .header__inner {
