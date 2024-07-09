@@ -1,0 +1,42 @@
+# The URL the site will be built for
+base_url = "https://me.vantao.cn"
+theme = "terminimal"
+title = "Portal of Wantao Liu"
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+# The theme supports feeds (RSS and ATOM)
+generate_feed = true
+
+# Use `rss.xml` for RSS feeds and `atom.xml` for ATOM.
+feed_filename = "atom.xml"
+
+
+[markdown]
+highlight_code = true
+highlight_theme = "boron"
+
+[extra]
+# Put all your custom variables here
+accent_color = "green-auto"
+background_color = "auto"
+logo_text = "Wantao Liu's Portal"
+author = "Wantao Liu"
+# menu is enabled by adding menu_items (optional)
+menu_items = [
+    # each of these is optional, name and url are required
+    # $BASE_URL is going to be substituted by base_url from configuration
+    {name = "Home", url = "$BASE_URL"},
+    
+    # tags should only be enabled if you have "tags" taxonomy
+    # see documentation below for more details
+    # {name = "tags", url = "$BASE_URL/tags"},
+    # {name = "archive", url = "$BASE_URL/archive"},
+    # {name = "about me", url = "$BASE_URL/about"},
+    
+    # set newtab to true to make the link open in new tab
+    # {name = "github", url = "url-to-your-github", newtab = true},
+]
