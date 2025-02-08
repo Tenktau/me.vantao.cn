@@ -4,4 +4,4 @@ title:
 permalink: /blog
 ---
 
-[🚪](https://blog.vantao.cn) 👈
+(<https://blog.vantao.cn>) 👈🌌
