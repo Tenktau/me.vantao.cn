@@ -11,6 +11,7 @@ menu:
 - {name: 'Blog', url: 'blog.html'}
 - {name: 'Selected Projects', url: 'selected.html'}
 - {name: 'Contact', url: 'contact.html'}
+- {name: 'Recommendations', url: 'recommendations.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
