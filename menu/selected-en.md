@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recommended Browsing
+title: Selected Projects
 permalink: /en/selected
 ---
 

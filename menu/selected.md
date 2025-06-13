@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 推荐浏览
+title: 精选项目
 permalink: /selected
 ---
 
